@@ -14,6 +14,7 @@
 
 ## S
 - [失乐园](https://shufang.org/sly.html)
+- [俗世奇人](https://shufang.org/ssqr.html)
 
 ## Z
 - [这世间所有的白](https://shufang.org/zsjsydb.html)
